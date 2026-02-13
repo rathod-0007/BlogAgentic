@@ -18,3 +18,8 @@ faiss-cpu
 langchainhub
 tavily-python
 streamlit
+
+fastapi
+
+uvicorn
+watchdog
