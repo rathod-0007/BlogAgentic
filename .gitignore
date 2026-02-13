@@ -1,2 +1,11 @@
+# LangGraph runtime
+.langgraph_api/
+*.pckl
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
 venv/
 .env
