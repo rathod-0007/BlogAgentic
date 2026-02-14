@@ -164,3 +164,8 @@ You can trigger the workflow via the FastAPI endpoint using this JSON structure:
 }
 ```
 > Note: The language field is optional. If omitted, the agent will return the content in English by default.
+
+<p align="center">
+  Made with 🩵 by <b>rathod-0007</b><br/>
+  <sub>Copyright © 2026 | All Rights Reserved</sub>
+</p>
